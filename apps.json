@@ -1,0 +1,29 @@
+
+{
+  "apps": [
+    {
+      "name": "Calculator",
+      "description": "Calculate mathematical expressions",
+      "version": "1.0",
+      "file": "https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/Calculator.lua"
+    },
+    {
+      "name": "TextEditor",
+      "description": "Create and edit text documents",
+      "version": "1.0",
+      "file": "https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/TextEditor.lua"
+    },
+    {
+      "name": "FileExplorer",
+      "description": "Browse and manage files and folders",
+      "version": "1.0",
+      "file": "https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/FileExplorer.lua"
+    },
+    {
+      "name": "Terminal",
+      "description": "Run commands in OrisOS",
+      "version": "1.0",
+      "file": "https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/Terminal.lua"
+    }
+  ]
+}
