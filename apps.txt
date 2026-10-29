@@ -1,0 +1,4 @@
+Calculator|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/Calculator.lua|A calculator for OrisOS
+TextEditor|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/TextEditor.lua|Create and edit text documents
+FileExplorer|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/FileExplorer.lua|Browse files and folders
+Terminal|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/Terminal.lua|OrisOS terminal
