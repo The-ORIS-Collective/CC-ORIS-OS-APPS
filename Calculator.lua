@@ -284,7 +284,7 @@ function Calculator.HandleEvent(event, ...)
         if button == 1 then
             local width, height = term.getSize()
             local buttons = {
-                {"C", "⌫", "(", ")"},
+                {"C", "DEL", "(", ")"},
                 {"7", "8", "9", "/"},
                 {"4", "5", "6", "*"},
                 {"1", "2", "3", "-"},
