@@ -1,1 +1,3 @@
 Calculator|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/Calculator.lua|A calculator for OrisOS
+FileExplorer|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/FileExplorer.lua|A File Explorer for OrisOS
+TextEditor|https://raw.githubusercontent.com/The-ORIS-Collective/CC-ORIS-OS-APPS/main/FileExplorer.lua|A Text Editor for OrisOS
