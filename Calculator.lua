@@ -241,7 +241,7 @@ local function PressButton(label)
         expr = ""
         result = ""
         errorMsg = ""
-    elseif label == "⌫" then
+    elseif label == "DEL" then
         expr = expr:sub(1, -2)
         errorMsg = ""
     else
